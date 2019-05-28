@@ -1,15 +1,12 @@
 {
-  "author": {
-    "name": "xuyede",
-    "email": "will3virgo@163.com"
-  },
+  "author": "{{author}}",
   "bundleDependencies": false,
   "dependencies": {
     "@babel/runtime": "^7.4.4",
     "vue": "^2.6.10"
   },
   "deprecated": false,
-  "description": "Xyd-cli",
+  "description": "{{description}}",
   "devDependencies": {
     "@babel/core": "^7.4.4",
     "@babel/plugin-transform-runtime": "^7.4.4",
@@ -40,7 +37,7 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "name": "xuyede-cli",
+  "name": "{{name}}",
   "repository": {
     "type": "git",
     "url": "https://github.com/xuyede"
